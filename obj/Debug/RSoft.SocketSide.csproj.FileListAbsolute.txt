@@ -1,0 +1,5 @@
+C:\Users\SEDEF KAŞIK\Documents\Visual Studio 2015\Projects\RSoft.SocketHelper\RSoft.SocketHelper\bin\Debug\RSoft.SocketSide.dll
+C:\Users\SEDEF KAŞIK\Documents\Visual Studio 2015\Projects\RSoft.SocketHelper\RSoft.SocketHelper\bin\Debug\RSoft.SocketSide.pdb
+C:\Users\SEDEF KAŞIK\Documents\Visual Studio 2015\Projects\RSoft.SocketHelper\RSoft.SocketHelper\obj\Debug\RSoft.SocketSide.csprojResolveAssemblyReference.cache
+C:\Users\SEDEF KAŞIK\Documents\Visual Studio 2015\Projects\RSoft.SocketHelper\RSoft.SocketHelper\obj\Debug\RSoft.SocketSide.dll
+C:\Users\SEDEF KAŞIK\Documents\Visual Studio 2015\Projects\RSoft.SocketHelper\RSoft.SocketHelper\obj\Debug\RSoft.SocketSide.pdb

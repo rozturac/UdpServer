@@ -1,0 +1,4 @@
+c:\users\sedef kaşik\documents\visual studio 2015\Projects\RSoft.SocketHelper\RSoft.SocketHelper\bin\Debug\RSoft.SocketHelper.dll
+c:\users\sedef kaşik\documents\visual studio 2015\Projects\RSoft.SocketHelper\RSoft.SocketHelper\bin\Debug\RSoft.SocketHelper.pdb
+c:\users\sedef kaşik\documents\visual studio 2015\Projects\RSoft.SocketHelper\RSoft.SocketHelper\obj\Debug\RSoft.SocketHelper.dll
+c:\users\sedef kaşik\documents\visual studio 2015\Projects\RSoft.SocketHelper\RSoft.SocketHelper\obj\Debug\RSoft.SocketHelper.pdb
