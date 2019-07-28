@@ -158,7 +158,7 @@ namespace RSoft.SocketSide
             {
                 Packet packet = new Packet(BufferSize);
 
-                _Socket.
+                _Socket?.
                     BeginReceiveFrom(packet.Buffer, 0, packet.Buffer.Length,
                     SocketFlags.None, ref packet.EpFrom, new AsyncCallback(_Socket_Receive), packet);
 
