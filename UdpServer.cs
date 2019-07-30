@@ -9,7 +9,7 @@ namespace RSoft.SocketSide
 {
     public class UdpServer : IDisposable
     {
-        public static UdpServer _uh;
+        public static UdpServer _us;
         public Socket _Socket;
         public long BufferSize { private get; set; }
 
@@ -43,7 +43,7 @@ namespace RSoft.SocketSide
             }
         }
 
-        public static UdpServer Create(long bufferSize = 1024) => _uh ?? (_uh = new UdpServer(bufferSize));
+        public static UdpServer Create(long bufferSize = 1024) => _us ?? (_us = new UdpServer(bufferSize));
 
         public void Open(string ipAddress, int portNumber)
         {
